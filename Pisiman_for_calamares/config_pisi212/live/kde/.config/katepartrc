@@ -1,0 +1,12 @@
+[Document]
+Newline at End of File=false
+ReplaceTabsDyn=false
+Show Spaces=true
+Trailing Marker Size=1
+
+[Renderer]
+Show Indentation Lines=true
+
+[View]
+Backspace Remove Composed Characters=false
+Line Numbers=true
