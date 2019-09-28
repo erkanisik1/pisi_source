@@ -1,0 +1,12 @@
+#username{
+	font-size: 12px;
+	font-weight: bold;
+}
+#authority{
+	font-size: 10px;
+}
+
+.avatar{
+	height: 3rem !important;
+	width: 3rem !important;
+}

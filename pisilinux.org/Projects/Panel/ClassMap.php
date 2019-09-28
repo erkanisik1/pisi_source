@@ -1,0 +1,51 @@
+<?php
+#----------------------------------------------------------------------
+# This file automatically created and updated
+#----------------------------------------------------------------------
+$classMap['classes']['content_model'] = 'Projects/Panel/Models/content_model.php';
+$classMap['classes']['download_model'] = 'Projects/Panel/Models/download_model.php';
+$classMap['classes']['forum_model'] = 'Projects/Panel/Models/forum_model.php';
+$classMap['classes']['kategori_model'] = 'Projects/Panel/Models/kategori_model.php';
+$classMap['classes']['login_model'] = 'Projects/Panel/Models/login_model.php';
+$classMap['classes']['member_model'] = 'Projects/Panel/Models/member_model.php';
+$classMap['classes']['menu_model'] = 'Projects/Panel/Models/menu_model.php';
+$classMap['classes']['page_model'] = 'Projects/Panel/Models/page_model.php';
+$classMap['classes']['panel'] = 'Projects/Panel/Models/panel.php';
+$classMap['classes']['slider_model'] = 'Projects/Panel/Models/slider_model.php';
+$classMap['classes']['wikimodel'] = 'Projects/Panel/Models/wikiModel.php';
+$classMap['classes']['project\controllers\ajax'] = 'Projects/Panel/Controllers/ajax.php';
+$classMap['classes']['project\controllers\category'] = 'Projects/Panel/Controllers/category.php';
+$classMap['classes']['project\controllers\content'] = 'Projects/Panel/Controllers/content.php';
+$classMap['classes']['project\controllers\forum'] = 'Projects/Panel/Controllers/forum.php';
+$classMap['classes']['project\controllers\funclist'] = 'Projects/Panel/Controllers/funclist.php';
+$classMap['classes']['project\controllers\home'] = 'Projects/Panel/Controllers/home.php';
+$classMap['classes']['project\controllers\iletisim'] = 'Projects/Panel/Controllers/iletisim.php';
+$classMap['classes']['project\controllers\indir'] = 'Projects/Panel/Controllers/indir.php';
+$classMap['classes']['project\controllers\member'] = 'Projects/Panel/Controllers/member.php';
+$classMap['classes']['project\controllers\menu'] = 'Projects/Panel/Controllers/menu.php';
+$classMap['classes']['project\controllers\page'] = 'Projects/Panel/Controllers/page.php';
+$classMap['classes']['project\controllers\setting'] = 'Projects/Panel/Controllers/setting.php';
+$classMap['classes']['project\controllers\slayt'] = 'Projects/Panel/Controllers/slayt.php';
+$classMap['classes']['project\controllers\user'] = 'Projects/Panel/Controllers/user.php';
+$classMap['classes']['project\controllers\wiki'] = 'Projects/Panel/Controllers/wiki.php';
+$classMap['namespaces']['project\controllers\ajax'] = 'ajax';
+$classMap['namespaces']['project\controllers\category'] = 'category';
+$classMap['namespaces']['project\controllers\content'] = 'content';
+$classMap['namespaces']['project\controllers\forum'] = 'forum';
+$classMap['namespaces']['project\controllers\funclist'] = 'funclist';
+$classMap['namespaces']['project\controllers\home'] = 'home';
+$classMap['namespaces']['project\controllers\iletisim'] = 'iletisim';
+$classMap['namespaces']['project\controllers\indir'] = 'indir';
+$classMap['namespaces']['project\controllers\member'] = 'member';
+$classMap['namespaces']['project\controllers\menu'] = 'menu';
+$classMap['namespaces']['project\controllers\page'] = 'page';
+$classMap['namespaces']['project\controllers\setting'] = 'setting';
+$classMap['namespaces']['project\controllers\slayt'] = 'slayt';
+$classMap['namespaces']['project\controllers\user'] = 'user';
+$classMap['namespaces']['project\controllers\wiki'] = 'wiki';
+$classMap['classes']['wiki_model'] = 'Projects/Panel/Models/wiki_model.php';
+$classMap['classes']['project\controllers\creator'] = 'Projects/Panel/Controllers/creator.php';
+$classMap['namespaces']['project\controllers\creator'] = 'creator';
+$classMap['classes']['project\controllers\sss'] = 'Projects/Panel/Controllers/sss.php';
+$classMap['namespaces']['project\controllers\sss'] = 'sss';
+$classMap['classes']['sss_model'] = 'Projects/Panel/Models/sss_model.php';
