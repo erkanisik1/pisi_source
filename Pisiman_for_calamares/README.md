@@ -1,6 +1,5 @@
-
-Pisiman for calamares - Pisi Linux - Gnu/Linux ISO Creator
-==============================
+Pisiman for calamares <br> Pisi Linux - Gnu/Linux ISO Creator 
+=============================================================
 
 Requirements
 ------------
